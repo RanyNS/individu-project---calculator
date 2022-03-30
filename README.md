@@ -1,3 +1,3 @@
 # individu-project---calculator
-proyek individu membuat kalkulator,
-inernal javascript
+proyek individu membuat kalkulator, 
+dengan internal javascript
